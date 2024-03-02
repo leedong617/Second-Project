@@ -1,8 +1,5 @@
 ## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
 
-## 02.Second_Project (JAVA, JSP, MyBatis, Oracle) (마이프로틴)
-<details>
-
 ### ⭐프로젝트 소개
 헬스의 인기가 증가함에 따라 헬스 용품들의 수요가 증가하는 요즘을 위한 헬스용품 판매 사이트를 개발하였습니다.
 
